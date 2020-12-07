@@ -1,0 +1,1 @@
+sed -i "s:2500000=n:1000000:g" /etc/security/limits.conf
